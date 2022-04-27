@@ -14,13 +14,13 @@ class Program
         integer = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("");
 
-        if (integer >=)
+        if (integer >= 0)
         {
-        Console.WriteLine"Your number is positive "
+        Console.WriteLine("Your number is positive");
         } 
         else 
         {
-        Console.WriteLine"Your number is negative "
+        Console.WriteLine("Your number is negative");
         }
 
         Console.WriteLine("\nDone.");
